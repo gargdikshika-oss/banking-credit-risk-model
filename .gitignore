@@ -1,0 +1,13 @@
+# Dataset
+Reduce Data for Scoring.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
